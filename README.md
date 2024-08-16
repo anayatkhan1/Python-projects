@@ -2,7 +2,6 @@
 # 5 Mini Python Projects - For Beginners
 
 I will be showing 5 mini python projects for beginners.
-I believe it will help you to make a project.
 
 
 
